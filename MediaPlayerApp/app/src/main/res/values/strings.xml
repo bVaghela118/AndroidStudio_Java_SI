@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MediaApp</string>
+    <string name="title_activity_music_list">MusicList</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="play">Play</string>
+    <string name="playlist"><![CDATA[Playlist >>]]></string>
+    <string name="stop">Stop</string>
+    <string name="todo">TODO</string>
+    <string name="welcome_to_music_world">Welcome to Music World!</string>
+</resources>

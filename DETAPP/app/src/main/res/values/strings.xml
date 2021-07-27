@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">DailyExpenseTracker</string>
+    <string name="already_registered_login_here">Already Registered? Login here</string>
+    <string name="email">Email</string>
+    <string name="full_name">Full Name</string>
+    <string name="registration">Registration</string>
+    <string name="new_account_register_here">New Account? Register here</string>
+</resources>
